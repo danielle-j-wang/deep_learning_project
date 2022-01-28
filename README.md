@@ -12,8 +12,8 @@ A deep learning model to classify any new sets of images. The final test accurac
 
 ## Workflow
 
-*the final model
-*different attempts in shaping my final model
+* the final model
+* attempts
 
 ## Deliverables
 
