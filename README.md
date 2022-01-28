@@ -6,7 +6,7 @@ A deep learning model to classify any new sets of images. The final test accurac
 
 ## Tools
 
-* python (pandas, numpy)
+* Python (pandas, numpy)
 * Tensorflow Keras
 * Matplotlib
 
