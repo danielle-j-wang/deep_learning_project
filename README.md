@@ -1,4 +1,4 @@
-# DL__6__Project
+# Deeping Learning__Project
  
  1mage classification
 
