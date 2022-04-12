@@ -2,7 +2,7 @@
  
  1mage classification
 
-A deep learning model to classify any new sets of images. The final test accuracy is 0.9077.
+The goal of this project was to build a multi-class image classification model. The final test accuracy is 0.9077.
 
 ## Tools
 
